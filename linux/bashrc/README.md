@@ -77,6 +77,9 @@ function sda() {
 }
 export -f sda
 
+# Package manager
+alias p=pnpm
+
 # Git
 alias g=git
 alias ga="git add"
