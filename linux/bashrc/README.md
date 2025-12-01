@@ -85,6 +85,7 @@ alias g=git
 alias ga="git add"
 alias gaa="git add -A"
 alias gb="git branch"
+alias gbc="git branch --contains" # git branch --contains 6ec8372
 alias gco="git checkout"
 alias gd="git diff"
 alias gdca="git diff --cached"
